@@ -1,0 +1,17 @@
+{
+  "name": "fileconv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csv2xml.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jericho Casuga",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "xml2json": "^0.12.0",
+    "xmlbuilder": "^13.0.2",
+    "yargs": "^15.1.0"
+  }
+}
